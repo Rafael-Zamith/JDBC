@@ -1,7 +1,7 @@
 # JDBC
 entregas de atividades propostas.
 - cada branch com a atividade da semana
-data limite 10/04/2020
+- data limite 10/04/2020
 
 
 ## Entrega JDBC
